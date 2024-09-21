@@ -33,7 +33,7 @@ on:
         - DIR-878
         - DIR-882
         - MR2600
-        - NEWIFI
+        - NEWIFI-MINI
         - XY-C1
         - WR1200JS
         - MSG1500
